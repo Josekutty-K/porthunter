@@ -9,18 +9,18 @@ porthunter is a **fast, lightweight, and multi-threaded** port scanner that help
 - **Lightweight and easy to use**
 
 ## 🛠 Requirements
-PortHunter3 only requires Python 3. No external dependencies!
+porthunter only requires Python 3. No external dependencies!
 
 ## 🚀 Installation 
 Clone the repository using:
-- git clone https://github.com/yourusername/PortHunter3.git
+- git clone https://github.com/Josekutty-K/porthunter.git
 - cd porthunter
 - chmod +x porthunter.py
 
 ## 🔥 Usage
 python3 porthunter.py
 ENTER THE TARGET SUBDOMAIN OR IP
-ENTER THE START PORT AND END PORT AND JUST RELAX... GO AND HAVE A CUP OF COFFEE AND A CIGRETTE YOUR RESULTS WILL BE READY
+ENTER THE START PORT AND END PORT AND JUST RELAX... GO AND HAVE A CUP OF COFFEE AND A CIGARETTE YOUR RESULTS WILL BE READY
 
 ## 🛡 Disclaimer
 This tool is for educational and ethical hacking purposes only.
