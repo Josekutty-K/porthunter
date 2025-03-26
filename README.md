@@ -18,9 +18,9 @@ Clone the repository using:
 - chmod +x porthunter.py
 
 ## 🔥 Usage
-python3 porthunter.py
-ENTER THE TARGET SUBDOMAIN OR IP
-ENTER THE START PORT AND END PORT AND JUST RELAX... GO AND HAVE A CUP OF COFFEE AND A CIGARETTE YOUR RESULTS WILL BE READY
+-python3 porthunter.py
+-ENTER THE TARGET SUBDOMAIN OR IP
+-ENTER THE START PORT AND END PORT AND JUST RELAX... GO AND HAVE A CUP OF COFFEE AND A CIGARETTE. YOUR RESULTS WILL BE READY
 
 ## 🛡 Disclaimer
 This tool is for educational and ethical hacking purposes only.
