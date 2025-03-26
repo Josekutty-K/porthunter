@@ -1,4 +1,4 @@
- porthunter - Fast Multi-threaded Port Scanner
+## porthunter - Fast Multi-threaded Port Scanner
 
 porthunter is a **fast, lightweight, and multi-threaded** port scanner that helps you find **open ports** and detect common services running on a target system.
 
@@ -13,9 +13,9 @@ PortHunter3 only requires Python 3. No external dependencies!
 
 ## 🚀 Installation 
 Clone the repository using:
-git clone https://github.com/yourusername/PortHunter3.git
-cd porthunter
-chmod +x porthunter.py
+- git clone https://github.com/yourusername/PortHunter3.git
+- cd porthunter
+- chmod +x porthunter.py
 
 ## 🔥 Usage
 python3 porthunter.py
